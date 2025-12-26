@@ -10,7 +10,7 @@ const niveis = [
     {nome: "platina", comeca: 7001, termina: 8000},
     {nome: "ascendente", comeca: 8001, termina: 9000},
     {nome: "imortal", comeca: 9001, termina: 10000},
-    {nome: "radiante", comeca: 10001, termina: 999999999999999999999},
+    {nome: "radiante", comeca: 10001, termina: 50000},
 ] 
 
 
